@@ -1,0 +1,2 @@
+# PowerShellCreateVbaHeaderComment
+VBAのプロシージャ用のコメントを作成し、クリップボードに設定するスクリプトです。
